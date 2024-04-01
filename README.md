@@ -8,7 +8,7 @@
 <hr>
 <h2>App</h2>
 <p>O Temporizador consiste em um cronômetro para temporizar tarefas do dia a dia. <br>No campo de input, o usuário deve digitar o tempo em minutos, 
-  logo abaixo o aplicativo possui dois botão para o usuário manusear seu tempo.
+  logo abaixo, o aplicativo possui dois botão para o usuário manusear seu tempo.
 <br> Botão Iniciar: o cronômetro é iniciado.
 <br> Botão Parar: o cronômetro é pausado.
 <br> Ao final da contagem de tempo inserida pelo usuário é exibido a mensagem: "O tempo acabou!"</p>
