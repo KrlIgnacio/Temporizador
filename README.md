@@ -13,7 +13,12 @@
 <br> Botão Parar: o cronômetro é pausado.
 <br> Ao final da contagem de tempo inserida pelo usuário é exibido a mensagem: "O tempo acabou!"</p>
 <hr>
+<h3>Conteúdo de apoio: </h3>
+[#01] 📍https://www.youtube.com/watch?v=O0YIfN5kGwY``
+<br>
+[#02] 📍https://youtu.be/Gii03FCnJFg
+<hr>
+<h3>Tecnologia utilizada: </h3>
+<p>📍Kotlin </p>
 <h3>Vídeo demonstrativo: </h3>
-
-<iframe src="https://player.vimeo.com/video/929370014" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
+➡️https://github.com/KrlIgnacio/Temporizador/assets/142948564/1e289603-4ea9-4d20-9336-489c6c223c11
